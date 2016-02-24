@@ -1,0 +1,320 @@
+{  
+  "competitions":[  
+    {  
+      "year":"2009",
+      "round":[  
+        {  
+          "desc":"2009 Qualification Round",
+          "contest":"90101",
+          "numPlayers":"8289",
+          "problems":[  
+            {  
+              "name":"Alien Language",
+              "id":"116101"
+            },
+            {  
+              "name":"Watersheds",
+              "id":"111101"
+            },
+            {  
+              "name":"Welcome to Code Jam",
+              "id":"122101"
+            }
+          ]
+        },
+        {  
+          "desc":"2009 round 1A",
+          "contest":"188266",
+          "numPlayers":"2007",
+          "problems":[  
+            {  
+              "name":"Multi-base happiness",
+              "id":"168107"
+            },
+            {  
+              "name":"Crossing the Road",
+              "id":"144111"
+            },
+            {  
+              "name":"Collecting Cards",
+              "id":"190103"
+            }
+          ]
+        },
+        {  
+          "desc":"2009 round 1B",
+          "contest":"186264",
+          "numPlayers":"2792",
+          "problems":[  
+            {  
+              "name":"Decision Tree",
+              "id":"171116"
+            },
+            {  
+              "name":"The Next Number",
+              "id":"203106"
+            },
+            {  
+              "name":"Square Math",
+              "id":"208101"
+            }
+          ]
+        },
+        {  
+          "desc":"2009 round 1C",
+          "contest":"189252",
+          "numPlayers":"2294",
+          "problems":[  
+            {  
+              "name":"All Your Base",
+              "id":"171121"
+            },
+            {  
+              "name":"Center of Mass",
+              "id":"156117"
+            },
+            {  
+              "name":"Bribe the Prisoners",
+              "id":"192120"
+            }
+          ]
+        },
+        {  
+          "desc":"2009 round 2",
+          "contest":"204113",
+          "numPlayers":"2002",
+          "problems":[  
+            {  
+              "name":"Crazy Rows",
+              "id":"241102"
+            },
+            {  
+              "name":"A Digging Problem",
+              "id":"254101"
+            },
+            {  
+              "name":"Stock Charts",
+              "id":"244101"
+            },
+            {  
+              "name":"Watering Plants",
+              "id":"250101"
+            }
+          ]
+        },
+        {  
+          "desc":"2009 round 3",
+          "contest":"243103",
+          "numPlayers":"296",
+          "problems":[  
+            {  
+              "name":"EZ-Sokoban",
+              "id":"291102"
+            },
+            {  
+              "name":"Alphabetomials",
+              "id":"290101"
+            },
+            {  
+              "name":"Football Team",
+              "id":"299101"
+            },
+            {  
+              "name":"Interesting Ranges",
+              "id":"293101"
+            }
+          ]
+        },
+        {  
+          "desc":"2009 world finals",
+          "contest":"311101",
+          "numPlayers":"23",
+          "problems":[  
+            {  
+              "name":"Year of more Code Jam",
+              "id":"322102"
+            },
+            {  
+              "name":"Min Perimeter",
+              "id":"317103"
+            },
+            {  
+              "name":"Doubly-sorted Grid",
+              "id":"319101"
+            },
+            {  
+              "name":"Wi-fi Towers",
+              "id":"322101"
+            },
+            {  
+              "name":"Marbles",
+              "id":"339102"
+            },
+            {  
+              "name":"Lights",
+              "id":"341101"
+            }
+          ]
+        }
+      ]
+    },
+    {  
+      "year":"2010",
+      "round":[  
+        {  
+          "desc":"2010 Qualification Round",
+          "contest":"433101",
+          "numPlayers":"10192",
+          "problems":[  
+            {  
+              "name":"Snapper Chain",
+              "id":"502103"
+            },
+            {  
+              "name":"Fair Warning",
+              "id":"506101"
+            },
+            {  
+              "name":"Theme Park",
+              "id":"509101"
+            }
+          ]
+        },
+        {  
+          "desc":"2010 round 1A",
+          "contest":"544101",
+          "numPlayers":"2155",
+          "problems":[  
+            {  
+              "name":"Rotate",
+              "id":"567116"
+            },
+            {  
+              "name":"Make it Smooth",
+              "id":"566101"
+            },
+            {  
+              "name":"Number Game",
+              "id":"583114"
+            }
+          ]
+        },
+        {  
+          "desc":"2010 round 1B",
+          "contest":"635101",
+          "numPlayers":"3139",
+          "problems":[  
+            {  
+              "name":"File Fix-it",
+              "id":"563117"
+            },
+            {  
+              "name":"Picking Up Chicks",
+              "id":"542118"
+            },
+            {  
+              "name":"Your Rank is Pure",
+              "id":"598111"
+            }
+          ]
+        },
+        {  
+          "desc":"2010 round 1C",
+          "contest":"619102",
+          "numPlayers":"3006",
+          "problems":[  
+            {  
+              "name":"Rope Intranet",
+              "id":"599117"
+            },
+            {  
+              "name":"Load Testing",
+              "id":"551112"
+            },
+            {  
+              "name":"Making Chess Boards",
+              "id":"563116"
+            }
+          ]
+        },
+        {  
+          "desc":"2010 round 2",
+          "contest":"635102",
+          "numPlayers":"1985",
+          "problems":[  
+            {  
+              "name":"Elegant Diamond",
+              "id":"694485"
+            },
+            {  
+              "name":"World Cup 2010",
+              "id":"698485"
+            },
+            {  
+              "name":"Bacteria",
+              "id":"706485"
+            },
+            {  
+              "name":"Grazing Google Goats",
+              "id":"689485"
+            }
+          ]
+        },
+        {  
+          "desc":"2010 round 3",
+          "contest":"639102",
+          "numPlayers":"370",
+          "problems":[  
+            {  
+              "name":"De-RNG-ed",
+              "id":"724485"
+            },
+            {  
+              "name":"Fence",
+              "id":"760487"
+            },
+            {  
+              "name":"Hot Dog Proliferation",
+              "id":"746490"
+            },
+            {  
+              "name":"Different Sum",
+              "id":"720485"
+            }
+          ]
+        },
+        {  
+          "desc":"2010 world finals",
+          "contest":"801485",
+          "numPlayers":"24",
+          "problems":[  
+            {  
+              "name":"Letter Stamper",
+              "id":"781485"
+            },
+            {  
+              "name":"City Tour",
+              "id":"729488"
+            },
+            {  
+              "name":"Candy Store",
+              "id":"786485"
+            },
+            {  
+              "name":"Travel Plan",
+              "id":"786486"
+            },
+            {  
+              "name":"Ninjutsu",
+              "id":"323102"
+            },
+            {  
+              "name":"The Paths of Yin Yang",
+              "id":"781486"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

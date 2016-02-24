@@ -6,7 +6,7 @@ import json
 #
 # Counts number of files per round based off filename.
 # Run in root directory of files you want to search.
-# CodeJamMetadata.json must be in the same directory as this script.
+# metadata.json must be in the same directory as this script.
 #
 
 def get_problem_id(filename):
@@ -17,7 +17,7 @@ def get_username(filename):
     filename += os.path.splitext(filename)[0]
     return re.sub('p[0-9]+\.', '', filename)
 
-metadatafile = open(os.path.dirname(os.path.realpath(__file__)) + "/CodeJamMetadata.json").read()
+metadatafile = open(os.path.dirname(os.path.realpath(__file__)) + "/metadata.json").read()
 metadata = json.loads(metadatafile)
 
 

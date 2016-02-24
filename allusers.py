@@ -32,7 +32,7 @@ def get_all_users(round_id, num_players):
     round_file.close()
 
 # load JSON
-metadatafile = open(os.path.dirname(os.path.realpath(__file__)) + "/CodeJamMetadata.json").read()
+metadatafile = open(os.path.dirname(os.path.realpath(__file__)) + "/metadata.json").read()
 metadata = json.loads(metadatafile)
 
 # loop through all years

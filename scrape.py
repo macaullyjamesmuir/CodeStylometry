@@ -114,7 +114,7 @@ def scrape(round_id, problems, script_path):
 # main section of script
 if __name__ == '__main__':
     script_path = os.path.dirname(os.path.realpath(__file__))
-    metadatafile = open(script_path + "/CodeJamMetadata.json").read()
+    metadatafile = open(script_path + "/metadata.json").read()
     metadata = json.loads(metadatafile)
 
     # loop through years
