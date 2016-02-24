@@ -27,8 +27,6 @@ import multiprocessing
 #                |         |               | --> etc...             
 #                |         |
 #                |         | --> etc...    | --> etc...
-#                |
-#                |--> py/  | --> etc...    | --> etc...
 #
 
 # returns the URL to download the user submission
@@ -77,7 +75,7 @@ def scrape(round_id, problems, script_path):
                 for my_file in my_zip.namelist():
 
                     # check for C/C++/Python source
-                    if my_file.endswith(('.c', '.cpp', '.py')):
+                    if my_file.endswith(('.c', '.cpp')):
                         target_source = username + '0' # destination of source files
                         file_newname = 'p' + problem_id + '.' + username + '0.' # appropriate name for file
                         if my_file.endswith('.c'):
@@ -86,9 +84,6 @@ def scrape(round_id, problems, script_path):
                         elif my_file.endswith('.cpp'):
                             file_newname += 'cpp'
                             target_source = 'cpp/' + target_source
-                        else:
-                            file_newname += 'py'
-                            target_source = 'py/' + target_source
                         target_source = 'codejamfolder/' + target_source
 
                         # make directory for language and author
