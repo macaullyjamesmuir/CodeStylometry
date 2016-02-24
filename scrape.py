@@ -90,7 +90,7 @@ def scrape(round_id, round_desc, problems, script_path):
             except:
                 totalErrors += 1
 
-    print "DONE: {} (Errors: {})".format(year, round_desc, totalErrors)
+    print "DONE: {} (Errors: {})".format(round_desc, totalErrors)
 
 # main section of script
 if __name__ == '__main__':
